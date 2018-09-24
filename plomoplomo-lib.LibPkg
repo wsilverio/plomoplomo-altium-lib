@@ -226,6 +226,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BWKQAURU
 
 [Document12]
+DocumentPath=jumpers.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JBJSTYMJ
+
+[Document13]
 DocumentPath=leds.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCWGCLDK
 
-[Document13]
+[Document14]
 DocumentPath=leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXINYVPS
 
-[Document14]
+[Document15]
 DocumentPath=plataformas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NECMOQOX
 
-[Document15]
+[Document16]
 DocumentPath=plataformas.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUCTLBJW
 
-[Document16]
+[Document17]
 DocumentPath=resistores.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFKFUAAY
 
-[Document17]
+[Document18]
 DocumentPath=resistores.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMOANWYA
 
-[Document18]
+[Document19]
 DocumentPath=transistores.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKVPYUHO
 
-[Document19]
+[Document20]
 DocumentPath=transistores.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUKQISRB
 
-[Document20]
+[Document21]
 DocumentPath=optos.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDGDBGYE
 
-[Document21]
+[Document22]
 DocumentPath=optos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
